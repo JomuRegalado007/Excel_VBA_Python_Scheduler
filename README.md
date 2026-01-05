@@ -55,4 +55,4 @@ Execution Logs (Timestamped)
 
 - GUI Build result using Command Prompt:
 
-![GUI Screenshot](https://github.com/JomuRegalado007/Excel_VBA_Python_Scheduler/blob/main/GUI_Result.jpg)
+![GUI Screenshot](https://github.com/JomuRegalado007/Excel_VBA_Python_Scheduler/blob/main/images/GUI_Result.jpg)
