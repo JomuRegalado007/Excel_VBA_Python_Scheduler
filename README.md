@@ -1,7 +1,5 @@
 # Python Scheduler Application
 
-**August 2025**
-
 A lightweight Python application that automates the execution of scheduled **Excel VBA macros**, eliminating manual clicks and reducing the risk of missed deadlines.
 
 Designed for recurring business processes such as financial reporting, data refreshes, and reconciliation tasks.
@@ -57,4 +55,4 @@ Execution Logs (Timestamped)
 
 - GUI Build result using Command Prompt:
 
-![GUI Screenshot]
+![GUI Screenshot](https://github.com/JomuRegalado007/Excel_VBA_Python_Scheduler/blob/main/GUI_Result.jpg)
